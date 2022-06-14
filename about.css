@@ -1,0 +1,22 @@
+.about-section h1 {
+  text-align: center;
+  padding: 20px;
+}
+.about-section {
+  padding: 20px 100px;
+  color: #222222d8;
+}
+
+.about-divs {
+  display: flex;
+  justify-content: space-around;
+  align-items: center;
+}
+
+.about-divs .content {
+  width: 40%;
+  line-height: 30px;
+}
+.about-divs .image img{
+  border-radius: 50px;
+}
